@@ -63,7 +63,7 @@ const items = [
         key: '8',
         label: (
 
-            "Deffie- Hellman Algorithm"
+            "Diffie- Hellman Algorithm"
           
         ),
       },
